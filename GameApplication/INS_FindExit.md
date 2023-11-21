@@ -4,24 +4,33 @@
 > 课程：游戏应用程序开发
 > 环境：Unity 2022.3.9f1c1
 
-# 开发准备
-## 核心功能
+# 开发准备 Dev Preparation
+## 核心功能 TO-DO Func
 1. 创建主角
-2. ...
+2. 游戏角色添加动画
+3. 游戏环境设置
+4. 游戏人物控制
+5. 镜头跟踪
+6. 通关触发
+7. 静态、动态敌人
+8. 视觉渲染
+9. 音效控制
+10. 项目的发布
+11. ...
 
-## 资源准备
+## 资源准备 Res Preparation
 1. 去 [Unity Assets Store](https://assetstore.unity.com/) 下载官方资源：[3D Beginner](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-learn-3d-beginner-tutorial-resources-urp-143848)
 2. 检查资源兼容性，URP通用渲染管线和SRP可编程渲染管线
 
 
-# 开发过程
+# 开发过程 Dev Progress
 
-## 项目创建
+## 项目创建 Initialize Project
 1. 查看版本是否支持某些3D模板
 2. 选择普通`3D(URP)`模板，创建项目`INS01_3DTutorial`
 3. 下载Package之后，开始开发程序
 
-## 场景搭建
+## 场景搭建 Scene Setup
 1. 在Store界面点击`添加到我的资源`，选择`在Unity中打开`
 2. 然后在`Package Manager`选择`Download`，等待下载完成
 3. 选择`Import --> Next`，等待资源导入
@@ -29,7 +38,7 @@
 5. 给场景的 Position Reset一下。
 6. 给Scene更名为`MainScene`，方便后续开发
 
-## 添加角色
+## 添加角色 Import Character
 1. 在该路径下：`Models\Characters`
 2. 将 `JohnLemon` 的 `Prefeb` 拖到场景 (MainScene) 中并 `Reset Position`
 
@@ -47,4 +56,22 @@
 
 | Animation | Animator |
 | ---- | ---- |
-| 动画设置，设置某个动画的关键帧 | 动画控制器：动画切换、叠加 |
+| 动画设置，控制一个动画播放的各类方法和数据 | 动画控制器：动画切换、叠加以及控制骨骼等复杂的效果 |
+
+
+## 角色设置 Character Coding
+### 行走动画处理
+1. 创建Animator来控制
+   1. Entry：进入
+   2. Exit：退出
+   3. 创建动作转换
+      1. 创建Bool Parameter：isWalking
+      2. Entry --(default)--> Idle <===> Walk
+      3. 设置conditions
+      4. 取消勾选 `Has Exit Time`
+2. 绑定了角色的 Animator 勾选 `Apply Root Motion`
+3. 运行游戏，改变 isWalking 的值，查看效果
+### 添加刚体 Rigid Body
+为了让角色与环境产生正确的动作交互，需要给角色添加上 `Rigidbody`
+1. Animator 会与 Rigidbody 更新冲突，导致角色上升
+Fix: 将 Animator 的 `Update Mode` 更改为 `Animate Physics`

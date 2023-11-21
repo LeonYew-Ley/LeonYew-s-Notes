@@ -1,4 +1,6 @@
 # Markdown Syntax
+推荐阅读: [教程向: 在 VS Code 中用 Markdown 做「数字化」学习笔记](https://zhuanlan.zhihu.com/p/366596107)
+
 # 一级标题
 
 ## 二级标题
@@ -10,7 +12,6 @@
 就像这样, 隔了一行空行.
 
 ---
-
 分割线
 
 **重点加粗**

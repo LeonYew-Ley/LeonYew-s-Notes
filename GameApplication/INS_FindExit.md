@@ -7,7 +7,7 @@
 # 开发准备
 ## 核心功能
 1. 创建主角
-2. 
+2. ...
 
 ## 资源准备
 1. 去 [Unity Assets Store](https://assetstore.unity.com/) 下载官方资源：[3D Beginner](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-learn-3d-beginner-tutorial-resources-urp-143848)

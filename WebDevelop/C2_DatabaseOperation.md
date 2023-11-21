@@ -21,14 +21,22 @@ eg.导入MySQL数据库驱动包来使用MySQL数据库
 ## Usage
 1. Creating a project, import the driver jar package
 2. Registry the driver
-3. Connect to database
+3. Connect to MySQL
 4. Define SQL Code
-5. Get SQL object
+5. Get SQL object: `Statement`
 6. Exagerate Code
 7. Show the result
 8. Release the resources
 
 # JDBC API
+## Basic API List
+- DriverManager
+- Statement
+- ResultSet
+- PreparedStatement
+
+## DriverManager
+
 
 ## PreparedStatement使用
 # 数据库连接池

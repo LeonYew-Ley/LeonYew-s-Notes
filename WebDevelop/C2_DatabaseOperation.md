@@ -12,6 +12,11 @@ A: Java DataBase Connectivity, an API to modify the database via Java
 - 更换数据库只需替换相应的数据库驱动
 eg.导入MySQL数据库驱动包来使用MySQL数据库
 
+## ShortComing
+- 数据库连接信息硬编码
+- SQL语句硬编码
+- 操作繁琐、手动封装查询结果
+
 ## Work Flow
 1. Java Language Coding
 2. Sending SQL Code to MySQL
@@ -61,7 +66,7 @@ SrcFolder --> package2
 
 ### SelectALL Function
 1. Load Config File
-   - 找不到路径: 打印出来
+   - druid找不到路径: 打印出来
    ``` Java
    System.out.println(System.getProperty("user.dir"));
    ```
@@ -81,3 +86,83 @@ SrcFolder --> package2
 3. SQL Code
    1. Set id property
 4. Handle with the result `List<Brand>`
+
+# MAVEN
+
+## What's MAVEN?
+管理和构建Java项目的工具。
+- 提供标准化项目结构
+- 提供标准化构建流程（编译、测试、打包、发布）
+- 提供依赖管理机制
+
+## Maven 项目结构
+...
+
+## Maven 项目构建流程
+MAVEN 右键菜单 'Run MAVEN' 的各个按钮就是构建的各个流程
+
+## MAVEN 依赖管理
+示例：
+```Java
+<dependencies>
+   <!-- MySQL Connector/J -->
+   <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>8.0.26</version>
+   </dependency>
+   
+   <!-- Apache Commons Lang -->
+   <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-lang3</artifactId>
+      <version>3.12.0</version>
+   </dependency>
+
+</dependencies>
+```
+
+```mermaid
+graph LR
+中心仓库 --> 远程仓库
+中心仓库 --> 本地仓库
+```
+
+## MAVEN 使用流程
+
+下载地址：[Maven](https://maven.apache.org/)
+
+### 配置本地仓库
+`~/conf/setting.xml`：
+```
+<localRepository>Path/to/your/Repo</localRepository>
+```
+
+### 配置镜像仓库
+`~/conf/settings.xml`
+```
+<mirror>
+   <id>
+   <name>
+   <url>
+   <mirrorOf>
+<mirror>
+```
+
+## IDEA 使用 MAVEN
+1. 建立
+
+# Mybatis: Better than JDBC
+## 实验3问题
+- 增加数据操作，未报错，但数据未成功添加
+  增删改手动提交事务
+  ```java
+  sqlSession.commit();
+  ```
+- 数据库连接异常
+   检查MyBatis-Config.xml的连接信息，使用自己的数据库、用户名和密码
+
+## 按照id查询
+
+# Apache Tomcat
+下载地址：tomcat.apache.org

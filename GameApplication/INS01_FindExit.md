@@ -84,3 +84,21 @@ Fix: 将 Animator 的 `Update Mode` 更改为 `Animate Physics`
 - 更改角色朝向
 - 摄像机视角跟随转动
 - 响应鼠标拖拽和键盘响应的视角转动
+
+## 光源
+光源主要有以下几类：
+- 点光源
+- 方向光（太阳光）
+- 聚光灯
+- 面光源
+
+### 调整光线
+这里我们使用方向光来模拟月光，并在Lightning面板中进行调整。
+
+### 全局照明（GI）
+- 通过预先计算好的光照贴图提供间接光照信息（烘培）
+
+## 自动寻路
+1. 若Unity版本在2022以下，首先在Package Manager中安装：AI Navigation的包
+2. 打开寻路面板：Window -- AI -- AI Navigation
+3. 

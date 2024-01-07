@@ -33,7 +33,8 @@
 - 不用登陆，用的是浏览器本地缓存，所以，不要随便清理浏览器缓存，也不要使用隐身模式！
 - 可以连接到云端仓库，把文件同步上去
 
-我们继续来，点击开始写作，你就会来到StackEdit的欢迎文档（W）
+我们继续来，点击开始写作，你就会来到StackEdit的欢迎文档（Welcome File）
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ1MzU3OTldfQ==
+eyJoaXN0b3J5IjpbMTc4MzAyMTA4MF19
 -->

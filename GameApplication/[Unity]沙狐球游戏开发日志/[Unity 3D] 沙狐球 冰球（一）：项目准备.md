@@ -15,6 +15,7 @@
 |--|--|
 |[原神中的冰球游戏](https://www.bilibili.com/video/BV1uV411j7GS/)|![输入图片说明](https://cdn.jsdelivr.net/gh/LeonYew-SWPU/FileTem@main/imgs/2024-01-08/HF9f5saDS88630YP.png)|
 |[Air Hockey上的冰球游戏](https://www.bilibili.com/video/BV1184y1V7Uj/)|![输入图片说明](https://cdn.jsdelivr.net/gh/LeonYew-SWPU/FileTem@main/imgs/2024-01-08/P0oKz2Ls0MMBhYKi.png)|
+|[Unity 顶视图冰球](https://www.bilibili.com/video/BV1ut4y1q7ta/)|![输入图片说明](https://cdn.jsdelivr.net/gh/LeonYew-SWPU/FileTem@main/imgs/2024-01-08/y2QEEAUKWJKHYQO5.png)|
 
 此外，我还了解到了一些有助于我后续开发的知识：
 
@@ -22,5 +23,5 @@
 - [Unity中的NetWorkManager来实现联机功能](https://www.bilibili.com/video/BV1As411L7P8/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTAxODMyOSwtOTA4NjA5NjIwXX0=
+eyJoaXN0b3J5IjpbOTEzMjc4OTM1LC05MDg2MDk2MjBdfQ==
 -->

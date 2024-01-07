@@ -79,9 +79,12 @@ Description下面的仓库类型忘注释了，Public：公开，Private：私�
 点击确认，
 ![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/9bFQi0gh0JqxIFe3.png)
 会跳转到Github认证，也是一路**点击绿色按钮**同意即可，是为了给予SE Git 仓库的权限。
+认证完成后，会跳转到如下页面：和添加文档仓库类似，填写仓库地址和分支即可。
 ![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/eMadoHmWIFOqsj0X.png)
 ### 添加图片的两种办法
+配置完图库之后，我们来说下使用SE如何使用图片
 #### A. 截图之后直接粘贴（前提是截图工具默认复制图片到剪贴板）
+在SE中，配置好图库之后，可以直接在文档中粘贴图片，就和QQ、Word等富文本编辑器一样的用法，
 #### B. 上传图片
 
 
@@ -89,5 +92,5 @@ Description下面的仓库类型忘注释了，Public：公开，Private：私�
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Njg1NjI2NV19
+eyJoaXN0b3J5IjpbNjc1MDY3Nzk3XX0=
 -->

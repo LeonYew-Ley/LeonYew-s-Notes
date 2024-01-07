@@ -25,9 +25,9 @@
 - [Unity中的可视化编程UVS](https://www.bilibili.com/video/BV15g4y177wd/)
 - [Unity中的NetWorkManager来实现联机功能](https://www.bilibili.com/video/BV1As411L7P8/)
 
-ok
+ok，今天的进度就这么点，因为一直在配置博客。。。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjc2MjY0LDY4MTc1MjE5Miw5MTMyNz
-g5MzUsLTkwODYwOTYyMF19
+eyJoaXN0b3J5IjpbLTE2MTIzMDM4NzgsNjgxNzUyMTkyLDkxMz
+I3ODkzNSwtOTA4NjA5NjIwXX0=
 -->

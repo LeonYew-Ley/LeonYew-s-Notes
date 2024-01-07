@@ -24,8 +24,11 @@
 ## StackEdit的使用
 接下来的教程，我默认你使用了 StackEdit 中文版。
 打开 stackedit.cn 你会看到如下界面：
+![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/6PaJoOKpDcEYOC03.png)
 
-
+在说明一下StackEdit有什么用：
+- 一款网页的MarkDown编辑器
+- 支持MarkDown增强语法：树状图、流程图
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzkzNTM5ODRdfQ==
+eyJoaXN0b3J5IjpbODg4MDA5MTA2XX0=
 -->

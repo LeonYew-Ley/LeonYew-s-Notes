@@ -1,6 +1,7 @@
 > 《[Unity 3D] 沙狐球/冰球（一）：项目准备》
-> 原创
+> 原创链接：[Yew's Blog](leonyew.fun)
 > Written with [StackEdit中文版](https://stackedit.cn/).
+> 日期：2024年1月8日
 
 # 灵感来源
 做这个游戏的初衷是老家县城的电玩城里面有个冰球游戏自己很喜欢玩，而且也在近年的优秀游戏《双人成行(It Takes Two)》中玩到，游戏机制简单有趣，很适合作为合家欢游戏，正好这学期学习了做Unity游戏，所以准备把沙狐球作为这次的**期末作业**。
@@ -16,5 +17,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0OTE4NzJdfQ==
+eyJoaXN0b3J5IjpbMTQ5NTUyODg4N119
 -->

@@ -19,8 +19,8 @@
 |文档空间|✅**Gitea** <br>✅**Gitee** <br>✅GitHub <br>✅GitLab <br>✅Google Drive <br>✅CouchDB|✅GitHub <br>✅GitLab <br>✅Google Drive <br>✅CouchDB |
 |图床支持|✅当前文档空间<br> ✅SM.MS <br> ✅自定义图床账号<br> ✅Gitea仓库<br> ✅GitHub仓库|✅Google Photos|
 |网址|stackedit.cn|stackedit.io|
-所以我建议你使用中文版，毕竟支持Gitee，如果哪天梯子倒了，还可以访问自己的笔记仓库。
+所以我建议你使用中文版，毕竟支持Gitee，如果哪天梯子倒了，还可以访问 *StackEdit 中文版* 和自己的 *笔记仓库* 。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDg4MjU2N119
+eyJoaXN0b3J5IjpbMTcyMjY1NTUxM119
 -->

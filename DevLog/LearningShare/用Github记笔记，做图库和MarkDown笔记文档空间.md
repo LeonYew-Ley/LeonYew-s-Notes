@@ -116,6 +116,11 @@ SE会自动将你的图片上传到配置好的图库中，并获取地址粘贴
 虽然说兜兜转转写博客又浪费了不少在期末项目上的时间，不过算是为之后的作业记录和开发日志“搭好了框架”。
 
 最后，欢迎在评论区一起探讨~
+
+> 《用Github记笔记，做图库和MarkDown笔记文档空间》
+> Written with [StackEdit中文版](https://stackedit.cn/).
+> 作者：[LeonYew | 黎恩瑜](http://leonyew.fun)
+> 日期：2024年1月7日
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxNTgxNzAwLC03MTUzNzQ5ODddfQ==
+eyJoaXN0b3J5IjpbLTUyODYxOTA5NCwtNzE1Mzc0OTg3XX0=
 -->

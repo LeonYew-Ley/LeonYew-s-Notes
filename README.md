@@ -6,7 +6,8 @@
 参考项目：[GitNotes](https://github.com/OrangeX4/GitNotes)
 
 ---
-Gitee同步测试
+Gitee同步测试2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzczNTk4NjVdfQ==
+eyJoaXN0b3J5IjpbLTE1NDk4NDc0OTMsLTE1NzczNTk4NjVdfQ
+==
 -->

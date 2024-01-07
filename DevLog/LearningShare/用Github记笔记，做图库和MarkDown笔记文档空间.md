@@ -23,8 +23,9 @@
 所以我建议你使用中文版，毕竟支持Gitee，毕竟哪天梯子倒了，还可以访问 *StackEdit 中文版* 和自己的 *笔记仓库* 。
 ## StackEdit的使用
 接下来的教程，我默认你使用了 StackEdit 中文版。
-打开 stackedit.cn
+打开 stackedit.cn 你会看到如下界面：
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA2NTE0NzRdfQ==
+eyJoaXN0b3J5IjpbLTE4MzkzNTM5ODRdfQ==
 -->

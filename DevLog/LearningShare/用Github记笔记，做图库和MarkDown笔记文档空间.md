@@ -16,8 +16,8 @@
 ||StackEdit中文版|StackEdit|
 |--|--|--|
 |文档空间|✅GitHub ✅Gitee <br>✅GitLab ✅Gitea <br>✅Google Drive <br>✅CouchDB|✅Google Drive|
-|图床支持|||
+|图床支持|✅当前文档空间<br> ✅SM.MS <br> ✅自定义图床账号<br> ✅Gitea仓库<br> ✅GitHub仓库|✅Google Photos|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjExMTQxNzZdfQ==
+eyJoaXN0b3J5IjpbLTIwMjYzNDg2NV19
 -->

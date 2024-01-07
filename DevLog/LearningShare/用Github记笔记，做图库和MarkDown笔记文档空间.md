@@ -121,6 +121,8 @@ SE会自动将你的图片上传到配置好的图库中，并获取地址粘贴
 > Written with [StackEdit中文版](https://stackedit.cn/).
 > 作者：[LeonYew | 黎恩瑜](http://leonyew.fun)
 > 日期：2024年1月7日
+
+<img src=“https://cdn.jsdelivr.net/gh/LeonYew-SWPU/FileTem@main/imgs/2024-01-07/hmxk5mL1XcROpGrI.png”>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODYxOTA5NCwtNzE1Mzc0OTg3XX0=
+eyJoaXN0b3J5IjpbMTYwNDg2MTc5MiwtNzE1Mzc0OTg3XX0=
 -->

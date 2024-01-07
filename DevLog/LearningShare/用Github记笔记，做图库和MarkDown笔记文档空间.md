@@ -100,8 +100,14 @@ SE会自动将你的图片上传到配置好的图库中，并获取地址粘贴
 1. 假设我们的仓库中有一张test.png的图片
 2. 使用github的链接直接访问是这样访问的https://github.com/github用户名/仓库名/raw/master/test.png，经过测试得知，加载速度是非常不理想的，此时将图片链接放入我们的网站内，将会导致网页加载速度十分缓慢，图片会一直在加载状态
 3. 现在使用jsdelivr访问非常简单，即把图片地址链接域名改为 CDN 的域名，是这样的访问格式， https://cdn.jsdelivr.net/gh/github用户名/仓库名@master/test.png ，经过测试，现在的访问速度已经起飞了
+
+## 示例
+|Github地址|加速地址|
+|--|--|
+|https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif|  |
+图片A
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjQzNzczOF19
+eyJoaXN0b3J5IjpbODM3NzgzMzU1XX0=
 -->

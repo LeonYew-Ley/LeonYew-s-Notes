@@ -30,7 +30,10 @@
 
 在说明一下StackEdit有什么用：
 - 一款网页的MarkDown编辑器
-- 不用登陆，用的是浏览器缓存，所以，不要随便清理浏览器缓存！
+- 不用登陆，用的是浏览器本地缓存，所以，不要随便清理浏览器缓存，也不要使用隐身模式！
+- 可以连接到云端仓库，把文件同步上去
+
+我们继续来，点击开始写作，你就会来到StackEdit的欢迎文档（W）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4NjA0NzE3XX0=
+eyJoaXN0b3J5IjpbLTEyNjQ1MzU3OTldfQ==
 -->

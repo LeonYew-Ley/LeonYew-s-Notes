@@ -39,7 +39,9 @@
 你可以点击下一步学习一下SE的基本操作，我就直接跳过了。点击左上角打开文件资源管理器，可以查看文件有哪些。接下来，我们将SE**链接到Github**，并且利用Github Repo为我们搭建**免费的图床**，而且使用一些方法让**国内也能快速浏览**！
 
 # 二、链接到Github文档空间
-我们点击右上角SE的zhogn
+我们点击右上角SE的中文版
+# 三、链接到Github图库
+# 四、Github图库加
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjk2NjI0OF19
+eyJoaXN0b3J5IjpbLTQzNTk1NTUxMV19
 -->

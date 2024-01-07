@@ -104,10 +104,10 @@ SE会自动将你的图片上传到配置好的图库中，并获取地址粘贴
 ## 示例
 |Github地址|加速地址|
 |--|--|
-|https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif|  |
+|https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif|  https://cdn.jsdelivr.net/gh/github用户名/仓库名@master/test.png |
 图片A
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3NzgzMzU1XX0=
+eyJoaXN0b3J5IjpbMjEyNjMxODg2MV19
 -->

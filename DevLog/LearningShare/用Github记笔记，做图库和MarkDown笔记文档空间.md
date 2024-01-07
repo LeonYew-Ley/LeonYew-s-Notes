@@ -74,12 +74,19 @@ Description下面的仓库类型忘注释了，Public：公开，Private：私�
 ### 配置图库
 随便新建一个文件，在编辑器的上方，会有一个图片图标，我们点击它：
 ![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/FCCWXWq4ubOayKFr.png)
+选择添加Github仓库
+![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/XWAu1vZ1oS7MyNW0.png)
+点击确认，
+![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/9bFQi0gh0JqxIFe3.png)
+
 ### 添加图片的两种办法
-#### A. 截图之后直接粘贴（）
+#### A. 截图之后直接粘贴（前提是截图工具默认复制图片到剪贴板）
+#### B. 上传图片
+
 
 # 四、Github图库访问加速
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NzkzNjddfQ==
+eyJoaXN0b3J5IjpbNjg2MzA2NzJdfQ==
 -->

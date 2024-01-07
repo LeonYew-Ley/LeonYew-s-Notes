@@ -105,9 +105,9 @@ SE会自动将你的图片上传到配置好的图库中，并获取地址粘贴
 |Github地址|CDN加速地址|
 |--|--|
 |https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif|  https://cdn.jsdelivr.net/gh/githubLeonYew-SWPU/FileTem/main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif |
-|![Github地址](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif)|![CDN加速地址](https://cdn.jsdelivr.net/gh/githubLeonYew-SWPU/FileTem/main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif )|
+|![Github地址](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif)|![CDN加速地址](https://cdn.jsdelivr.net/gh/github/LeonYew-SWPU/FileTem@main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif )|
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzEzMDIyMjFdfQ==
+eyJoaXN0b3J5IjpbLTYxMDM1NTA2M119
 -->

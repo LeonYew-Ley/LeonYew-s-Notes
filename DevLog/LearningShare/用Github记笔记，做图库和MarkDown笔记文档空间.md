@@ -64,10 +64,12 @@ Description下面的仓库类型忘注释了，Public：公开，Private：私�
 我们点击右上角SE的中文版logo --> 文档空间 --> 新增GitHub文档空间，按照下图提示填写：
 ![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/TlE1HalJ67fmMDmY.png)
 
+点击“确认”，会跳转到Github授权认证，一路点击绿色an'ni
+## 4. 在StackEdit中连接到Github图库
 
 # 四、Github图库访问加速
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzYyMjQxMTddfQ==
+eyJoaXN0b3J5IjpbLTk2Njk2MDgwOV19
 -->

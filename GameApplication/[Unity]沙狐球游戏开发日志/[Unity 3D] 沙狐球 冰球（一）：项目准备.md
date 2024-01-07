@@ -1,9 +1,11 @@
-> 标题：[Unity 3D] 4天开发沙狐球/冰球（一）：项目准备
+> 标题：[Unity 3D] 4天开发冰球游戏（一）：项目准备
 > 链接：[Yew's Blog](leonyew.fun)
 > 工具：Written with [StackEdit中文版](https://stackedit.cn/).
 > 日期：2024年1月8日
 > 图库：https://cdn.jsdelivr.net/gh/LeonYew-SWPU/FileTem@main
 
+# 4天？
+这么快？不是我的能力强大到4天完成，是因为我只剩4天就要交这个大作业了 :D
 # 灵感来源
 做这个游戏的初衷是老家县城的电玩城里面有个冰球游戏自己很喜欢玩，而且也在近年的优秀游戏《双人成行(It Takes Two)》中玩到，游戏机制简单有趣，很适合作为合家欢游戏，正好这学期学习了做Unity游戏，所以准备把沙狐球作为这次的**期末作业**。
 # 资料收集
@@ -24,6 +26,6 @@
 - [Unity中的NetWorkManager来实现联机功能](https://www.bilibili.com/video/BV1As411L7P8/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTEwMzM2Niw2ODE3NTIxOTIsOTEzMj
-c4OTM1LC05MDg2MDk2MjBdfQ==
+eyJoaXN0b3J5IjpbNzkxMzI5MzIzLDY4MTc1MjE5Miw5MTMyNz
+g5MzUsLTkwODYwOTYyMF19
 -->

@@ -49,12 +49,13 @@
 来到[Github](https://github.com/)，点击左上角的“New”新建仓库
 ![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/vnDZDs6mYeoiek21.png)
 接下来，你会看到新建页面，红色的仓库名称是必填的，其他黑色的自行配置，我在截图中配了中文注释
-[图片上传中...(image-jdXn5NuChFWdUgZK)]
+![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/mipRoAOlAIO5S4Xq.png)
+Description下面的仓库类型忘注释了，Public：公开，Private：私有。私有仓库可以你自己设置查看权限，一般用于研发中的团队项目，且需要Github会员，所以我们**选择Public**即可。
 # 三、链接到Github图库
 
 # 四、Github图库访问加速
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDExNTAwMF19
+eyJoaXN0b3J5IjpbNTQyMDY2MTE2XX0=
 -->

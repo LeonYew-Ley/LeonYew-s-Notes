@@ -11,7 +11,9 @@
 需要做Unity的期末作业 --> 需要写文档 --> 需要记录一些灵感 --> MarkDown --> 需要一个博客存放 --> 搭建halo --> 需要Docker -->需要DockerCompose --> 配置DockerCompose --> halo需要设置主题的HTML语言为中文，否则浏览器会弹出翻译 --> 自己修改官方的主题包 --> halo自带的编辑器不好用 --> StackEdit --> 需要连接到我自己的Github --> 配置Github文档空间和Github图库
 
 总之，绕了一大圈之后，我是终于完成了可以开始记录的我的开发日志，但其实这一切我完全可以单独新建一个实验文档以外的docx文档就可以了，没办法，**人生乐在折腾**。
-# 一、使用StackEdit中文版
+# 一、使用StackEdit中文版写MarkDown
+## 你不会MarkDown?
+没事，你进入到StackEdit中之后，会有一份Welcome的文档，里面有StackEdit支持的各种语法，**不用记，忘记的时候查一下就行，熟能生巧**。
 ## 中文版 or 国际版？
 这里我推荐你使用StackEdit中文版，为什么？见下表：
 ||StackEdit中文版|StackEdit|
@@ -28,7 +30,7 @@
 
 在说明一下StackEdit有什么用：
 - 一款网页的MarkDown编辑器
-- 支持MarkDown增强语法：树状图、流程图
+- 不用登陆，用的是浏览器缓存，所以，不要随便清理浏览器缓存！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4MDA5MTA2XX0=
+eyJoaXN0b3J5IjpbNDY4NjA0NzE3XX0=
 -->

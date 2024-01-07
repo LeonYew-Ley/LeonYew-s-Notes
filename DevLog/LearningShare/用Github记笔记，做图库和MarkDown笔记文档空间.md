@@ -71,11 +71,15 @@ Description下面的仓库类型忘注释了，Public：公开，Private：私�
 到这里，就算是添加成功了，接下来我们添加图库。
 
 ## 4. 在StackEdit中连接到Github图库
-随便新建一个文件，在编辑器的上方，会有一个图片图标，我们点击
+### 配置图库
+随便新建一个文件，在编辑器的上方，会有一个图片图标，我们点击它：
+![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/FCCWXWq4ubOayKFr.png)
+### 添加图片的两种办法
+#### A. 截图之后直接粘贴（）
 
 # 四、Github图库访问加速
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTk4NDU3MTVdfQ==
+eyJoaXN0b3J5IjpbOTQ5NzkzNjddfQ==
 -->

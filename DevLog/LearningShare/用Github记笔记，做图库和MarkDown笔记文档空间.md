@@ -39,8 +39,9 @@
 你可以点击下一步学习一下SE的基本操作，我就直接跳过了。点击左上角打开文件资源管理器，可以查看文件有哪些。接下来，我们将SE**链接到Github**，并且利用Github Repo为我们搭建**免费的图床**，而且使用一些方法让**国内也能快速浏览**！
 
 # 二、链接到Github文档空间
-## 登录Github账号
-我们点击右上角SE的中文版logo -->使用登录Github
+这里如果你不能访问Github，使用Gitee也是一样的，大同小异，本文使用Github作为演示，如果有任何问题可以在我的个人网站私信我。[LeonYew](http://leonyew.fun)
+## 登录Github/Gitee账号
+我们点击右上角SE的中文版logo -->使用GitHub登录
 ![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/kTRMXFuYi2raxeQv.png)
 
 # 三、链接到Github图库
@@ -49,5 +50,5 @@
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwOTczOTVdfQ==
+eyJoaXN0b3J5IjpbLTEwNTk5MDA4MzldfQ==
 -->

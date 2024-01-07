@@ -106,7 +106,9 @@ SE会自动将你的图片上传到配置好的图库中，并获取地址粘贴
 |https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif|  https://cdn.jsdelivr.net/gh/LeonYew-SWPU/FileTem@main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif |
 |![Github地址](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif)|![CDN加速地址](https://cdn.jsdelivr.net/gh/LeonYew-SWPU/FileTem@main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif )|
 
-不过，对于以后如何自动让SE防止加速后的链接，我还没有比较好的方法。或许可以通过去forkSE中文版的仓库，来修改一下它的图片处理逻辑，让t
+不过，对于以后如何自动让SE防止加速后的链接，我还没有比较好的方法。
+
+不过或许可以通过去GithubshangforkSE中文版的仓库，来修改一下它的图片处理逻辑，让它上传好仓库之后，粘贴回来的函数中增加一个转换链接的函数，让最终的路径为CDN加速路径。
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 
@@ -115,5 +117,5 @@ SE会自动将你的图片上传到配置好的图库中，并获取地址粘贴
 
 最后，欢迎在评论区一起探讨~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTgyMzIzNzgsLTcxNTM3NDk4N119
+eyJoaXN0b3J5IjpbLTEzMTIxNTcwMzEsLTcxNTM3NDk4N119
 -->

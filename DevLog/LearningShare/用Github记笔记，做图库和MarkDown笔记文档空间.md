@@ -12,7 +12,7 @@
 
 总之，绕了一大圈之后，我是终于完成了可以开始记录的我的开发日志，但其实这一切我完全可以单独新建一个实验文档以外的docx文档就可以了，没办法，**人生乐在折腾**。
 # 一、使用StackEdit中文版
-## StackEdit中文版 or StackEdit？
+## 中文版 or g？
 这里我推荐你使用StackEdit中文版，为什么？见下表：
 ||StackEdit中文版|StackEdit|
 |--|--|--|
@@ -22,5 +22,5 @@
 所以我建议你使用中文版，毕竟支持Gitee，如果哪天梯子倒了，还可以访问自己的笔记仓库。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjgwODg5M119
+eyJoaXN0b3J5IjpbLTY1NTA3MDU5Ml19
 -->

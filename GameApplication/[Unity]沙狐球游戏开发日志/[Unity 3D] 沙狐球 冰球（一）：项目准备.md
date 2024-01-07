@@ -14,9 +14,10 @@
 |来源|截图|
 |--|--|
 |[原神中的冰球游戏](https://www.bilibili.com/video/BV1uV411j7GS/)|![输入图片说明](https://cdn.jsdelivr.net/gh/LeonYew-SWPU/FileTem@main/imgs/2024-01-08/HF9f5saDS88630YP.png)|
+|[Air Hockey上的冰球游戏](https://www.bilibili.com/video/BV1184y1V7Uj/)|![输入图片说明](https://cdn.jsdelivr.net/gh/LeonYew-SWPU/FileTem@main/imgs/2024-01-08/P0oKz2Ls0MMBhYKi.png)|
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzIzNTgzOV19
+eyJoaXN0b3J5IjpbLTkwODYwOTYyMF19
 -->

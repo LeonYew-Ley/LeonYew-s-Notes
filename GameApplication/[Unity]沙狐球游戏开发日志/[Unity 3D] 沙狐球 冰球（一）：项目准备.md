@@ -18,9 +18,9 @@
 
 此外，我还了解到了一些有助于我后续开发的知识：
 
-- Unity中的可视化编程UVS
-
+- [Unity中的可视化编程UVS](https://www.bilibili.com/video/BV15g4y177wd/)
+- [Unity中的NetWorkManager来实现联机功能](https://www.bilibili.com/video/BV1As411L7P8/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDM3OTA5MiwtOTA4NjA5NjIwXX0=
+eyJoaXN0b3J5IjpbMTc0MTAxODMyOSwtOTA4NjA5NjIwXX0=
 -->

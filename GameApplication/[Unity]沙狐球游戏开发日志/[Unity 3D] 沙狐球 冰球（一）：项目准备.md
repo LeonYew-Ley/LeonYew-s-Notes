@@ -1,4 +1,4 @@
-> 标题：[Unity 3D] 沙狐球/冰球（一）：项目准备
+> 标题：[Unity 3D] 4天开发沙狐球/冰球（一）：项目准备
 > 链接：[Yew's Blog](leonyew.fun)
 > 工具：Written with [StackEdit中文版](https://stackedit.cn/).
 > 日期：2024年1月8日
@@ -24,6 +24,6 @@
 - [Unity中的NetWorkManager来实现联机功能](https://www.bilibili.com/video/BV1As411L7P8/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxNzUyMTkyLDkxMzI3ODkzNSwtOTA4Nj
-A5NjIwXX0=
+eyJoaXN0b3J5IjpbMTkyNTEwMzM2Niw2ODE3NTIxOTIsOTEzMj
+c4OTM1LC05MDg2MDk2MjBdfQ==
 -->

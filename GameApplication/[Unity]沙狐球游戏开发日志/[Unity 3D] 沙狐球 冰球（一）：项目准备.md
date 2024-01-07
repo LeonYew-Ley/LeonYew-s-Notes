@@ -2,7 +2,7 @@
 > 链接：[Yew's Blog](leonyew.fun)
 > 工具：Written with [StackEdit中文版](https://stackedit.cn/).
 > 日期：2024年1月8日
-> 图库：https://cdn.jsdelivr.net/gh/LeonYew-SWPU/FileTem@im
+> 图库：https://cdn.jsdelivr.net/gh/LeonYew-SWPU/FileTem@main
 
 # 灵感来源
 做这个游戏的初衷是老家县城的电玩城里面有个冰球游戏自己很喜欢玩，而且也在近年的优秀游戏《双人成行(It Takes Two)》中玩到，游戏机制简单有趣，很适合作为合家欢游戏，正好这学期学习了做Unity游戏，所以准备把沙狐球作为这次的**期末作业**。
@@ -18,5 +18,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzE1OTIxMF19
+eyJoaXN0b3J5IjpbMTYxMzIzNTgzOV19
 -->

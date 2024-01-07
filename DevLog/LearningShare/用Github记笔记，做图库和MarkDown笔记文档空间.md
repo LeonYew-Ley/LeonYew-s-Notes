@@ -88,11 +88,15 @@ Description下面的仓库类型忘注释了，Public：公开，Private：私�
 SE会自动将你的图片上传到配置好的图库中，并获取地址粘贴到MarkDown文档中。演示如下：
 ![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/I6iRl9rg4ruvzqqP.gif)
 #### B. 上传图片
-点击编辑器上方的图片按钮-->上传
+点击编辑器上方的图片按钮 -->上传图片 --> 选择图片文件，演示效果如下：
+![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/f5SUFXBGFglw52ck.gif)
 
 # 四、Github图库访问加速
+你可能注意到了SE自动生成的图片地址为 raw.githubusercontent.com ，要是在国内的博客访问速度很慢怎么办？
+这里分享一个方法，忘记了原博客地址了，如果想起来了在这里贴上。
+
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY5MjM1ODldfQ==
+eyJoaXN0b3J5IjpbLTQzMDM3MjEwMV19
 -->

@@ -86,13 +86,13 @@ Description下面的仓库类型忘注释了，Public：公开，Private：私�
 #### A. 截图之后直接粘贴（前提是截图工具默认复制图片到剪贴板）
 在SE中，配置好图库之后，可以直接在文档中粘贴图片，就和QQ、Word等富文本编辑器一样的用法。
 SE会自动将你的图片上传到配置好的图库中，并获取地址粘贴到MarkDown文档中。演示如下：
-[图片上传中...(image-0M2Jmc6S6ta9ylNe)]
+![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/I6iRl9rg4ruvzqqP.gif)
 #### B. 上传图片
-
+点击编辑器上方的图片按钮-->上传
 
 # 四、Github图库访问加速
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODk1OTIxOV19
+eyJoaXN0b3J5IjpbLTE2MDY5MjM1ODldfQ==
 -->

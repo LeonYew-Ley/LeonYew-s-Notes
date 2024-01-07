@@ -43,6 +43,8 @@
 ## 登录Github/Gitee账号
 我们点击右上角SE的中文版logo -->使用GitHub登录
 ![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/kTRMXFuYi2raxeQv.png)
+## 新建文档空间
+登录账号以后，你也许会看到SE右侧会有新建文档空间，但是在这之前，我们需要去
 
 # 三、链接到Github图库
 
@@ -50,5 +52,5 @@
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3MDI0ODg2XX0=
+eyJoaXN0b3J5IjpbNTg0Njc1NTZdfQ==
 -->

@@ -15,9 +15,13 @@
 这里我推荐你使用StackEdit中文版，为什么？见下表：
 ||StackEdit中文版|StackEdit|
 |--|--|--|
-|文档空间|✅GitHub✅Gitee✅GitLab✅GitLab|  |
+|文档空间|
+
+ - [ ] 这里是列表文本
+
+✅GitHub✅Gitee✅GitLab✅Gitea✅GoogleDrive✅CouchDB|  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA2NjQwXX0=
+eyJoaXN0b3J5IjpbLTgyNjg3MjE1OV19
 -->

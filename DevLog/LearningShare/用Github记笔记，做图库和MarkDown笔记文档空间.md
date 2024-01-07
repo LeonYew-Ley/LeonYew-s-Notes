@@ -38,7 +38,7 @@
 
 你可以点击下一步学习一下SE的基本操作，我就直接跳过了。点击左上角打开文件资源管理器，可以查看文件有哪些。接下来，我们将SE**链接到Github**，并且利用Github Repo为我们搭建**免费的图床**，而且使用一些方法让**国内也能快速浏览**！
 
-# 二、链接到文档空间到Github
+# 二、StackEdit绑定Github
 这里如果你不能访问Github，使用Gitee也是一样的，大同小异，本文使用Github作为演示，如果有任何问题可以在我的个人网站私信我。[点我前往：LeonYew](http://leonyew.fun)
 ## 1. 登录Github/Gitee账号
 我们点击右上角SE的中文版logo -->使用GitHub登录
@@ -57,9 +57,9 @@ Description下面的仓库类型忘注释了，Public：公开，Private：私�
 创建完成后，你会来到你的仓库，由于没有勾选README file，所以目前没有文件，暂时不用管。
 
 你可以随便上传一些东西，用来确定分支的名称。
-### 新建图库Repo
-按照文档Repo的方式，再新建一个仓库：SEImgs。
-## 三、链接到Github图库
+
+按照文档Repo的方式，**再新建一个仓库：SEImgs**。
+## 3. 在StackEdit中连接到Github文档空间
 当我们建立好仓库，就可以回到SE中绑定了。
 我们点击右上角SE的中文版logo --> 文档空间 --> 新增GitHub文档空间，按照下图提示填写：
 ![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/TlE1HalJ67fmMDmY.png)
@@ -69,5 +69,5 @@ Description下面的仓库类型忘注释了，Public：公开，Private：私�
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU1MDQyNzZdfQ==
+eyJoaXN0b3J5IjpbLTE2NzYyMjQxMTddfQ==
 -->

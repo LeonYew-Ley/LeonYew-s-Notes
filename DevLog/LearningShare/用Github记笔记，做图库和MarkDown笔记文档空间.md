@@ -36,7 +36,10 @@
 我们继续来，点击开始写作，你就会来到StackEdit的欢迎文档（Welcome File）
 ![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/q2Xhb5XeZmUPL5IL.png)
 
-你可以点击下一步学习一下SE的基本操作，我就直接跳过了。点击左上角打开文件资源管理器，可以查看文件有哪些。接下来，我们将SE链接到Github，并且
+你可以点击下一步学习一下SE的基本操作，我就直接跳过了。点击左上角打开文件资源管理器，可以查看文件有哪些。接下来，我们将SE**链接到Github**，并且利用Github Repo为我们搭建**免费的图床**，而且使用一些方法让**国内也能快速浏览**！
+
+# 二、链接到Github文档空间
+我们点击右上角SE的zhogn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA0MjI1MjNdfQ==
+eyJoaXN0b3J5IjpbMTgwMjk2NjI0OF19
 -->

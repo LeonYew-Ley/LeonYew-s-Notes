@@ -34,7 +34,9 @@
 - 可以连接到云端仓库，把文件同步上去
 
 我们继续来，点击开始写作，你就会来到StackEdit的欢迎文档（Welcome File）
+![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/q2Xhb5XeZmUPL5IL.png)
 
+你可以点击下一步学习一下SE的基本操作，我就直接跳过了。点击左上角打开文件资源管理器，可以查看文件有哪些。接下来，我们将SE链接到Github，并且
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzAyMTA4MF19
+eyJoaXN0b3J5IjpbLTEwNDA0MjI1MjNdfQ==
 -->

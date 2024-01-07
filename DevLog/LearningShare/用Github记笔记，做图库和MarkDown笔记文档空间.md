@@ -46,8 +46,9 @@
 ## 新建文档Repo和图库Repo
 登录账号以后，你也许会看到SE右侧会有新建文档空间，但是在这之前，我们需要去GitHub上先把文档和图片的仓库建立好：
 ### 新建文档Repo
-来到[Github](https://github.com/)
+来到[Github](https://github.com/)，点击左上角的“New”新建仓库
 ![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/vnDZDs6mYeoiek21.png)
+接下来，你会看到新建页面，红色的仓库名称是必填的，其他黑色的自行配置，我在截图中配了中文注释
 
 # 三、链接到Github图库
 
@@ -55,5 +56,5 @@
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5OTQxOTk1XX0=
+eyJoaXN0b3J5IjpbMTkzMDE0ODgzMl19
 -->

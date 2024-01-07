@@ -4,3 +4,9 @@
 
 ---
 参考项目：[GitNotes](https://github.com/OrangeX4/GitNotes)
+
+---
+Gitee同步测试
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NzczNTk4NjVdfQ==
+-->

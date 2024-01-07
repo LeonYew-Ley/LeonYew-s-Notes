@@ -84,7 +84,9 @@ Description下面的仓库类型忘注释了，Public：公开，Private：私�
 ### 添加图片的两种办法
 配置完图库之后，我们来说下使用SE如何使用图片
 #### A. 截图之后直接粘贴（前提是截图工具默认复制图片到剪贴板）
-在SE中，配置好图库之后，可以直接在文档中粘贴图片，就和QQ、Word等富文本编辑器一样的用法，
+在SE中，配置好图库之后，可以直接在文档中粘贴图片，就和QQ、Word等富文本编辑器一样的用法。
+SE会自动将你的图片上传到配置好的图库中，并获取地址粘贴到MarkDown文档中。演示如下：
+[图片上传中...(image-0M2Jmc6S6ta9ylNe)]
 #### B. 上传图片
 
 
@@ -92,5 +94,5 @@ Description下面的仓库类型忘注释了，Public：公开，Private：私�
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1MDY3Nzk3XX0=
+eyJoaXN0b3J5IjpbLTg0ODk1OTIxOV19
 -->

@@ -57,14 +57,17 @@ Description下面的仓库类型忘注释了，Public：公开，Private：私�
 创建完成后，你会来到你的仓库，由于没有勾选README file，所以目前没有文件，暂时不用管。
 
 你可以随便上传一些东西，用来确定分支的名称。
-
+### 新建
 按照这个方式，再新建一个仓库：SEImgs。
 # 三、链接到Github图库
 当我们建立好仓库，就可以回到SE中绑定了。
-我们点击右上角SE的中文版logo --> 文档空间 --> 新增G
+我们点击右上角SE的中文版logo --> 文档空间 --> 新增GitHub文档空间，按照下图提示填写：
+![输入图片说明](https://raw.githubusercontent.com/LeonYew-SWPU/FileTem/main/imgs/2024-01-07/TlE1HalJ67fmMDmY.png)
+
+
 # 四、Github图库访问加速
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NTY0ODA1XX0=
+eyJoaXN0b3J5IjpbLTEzOTE3NjU1NTRdfQ==
 -->

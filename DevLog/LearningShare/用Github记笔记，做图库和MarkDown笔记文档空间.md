@@ -93,14 +93,15 @@ SE会自动将你的图片上传到配置好的图库中，并获取地址粘贴
 
 # 四、Github图库访问加速
 你可能注意到了SE自动生成的图片地址为 raw.githubusercontent.com ，要是在国内的博客访问速度很慢怎么办？
-这里分享一个方法：（非原创，但忘记原博客地址，之后补上）
+这里分享一个方法：将github地址替换为jsdelivr的CDN服务商地址
+>非原创，但忘记原博客地址，之后补上
 
 ## 利用jsdelivr加速访问
 1. 假设我们的仓库中有一张test.png的图片
-3. 使用github的链接直接访问是这样访问的https://github.com/github用户名/仓库名/raw/master/test.png，经过测试得知，加载速度是非常不理想的，此时将图片链接放入我们的网站内，将会导致网页加载速度十分缓慢，图片会一直在加载状态
-4. 现在使用jsdelivr访问非常简单，即把图片地址链接域名改为 CDN 的域名，是这样的访问格式， https://cdn.jsdelivr.net/gh/github用户名/仓库名@master/test.png ，经过测试，现在的访问速度已经起飞了
+2. 使用github的链接直接访问是这样访问的https://github.com/github用户名/仓库名/raw/master/test.png，经过测试得知，加载速度是非常不理想的，此时将图片链接放入我们的网站内，将会导致网页加载速度十分缓慢，图片会一直在加载状态
+3. 现在使用jsdelivr访问非常简单，即把图片地址链接域名改为 CDN 的域名，是这样的访问格式， https://cdn.jsdelivr.net/gh/github用户名/仓库名@master/test.png ，经过测试，现在的访问速度已经起飞了
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMxMDUxODFdfQ==
+eyJoaXN0b3J5IjpbLTY3MjQzNzczOF19
 -->

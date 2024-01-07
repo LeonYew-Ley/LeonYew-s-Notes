@@ -55,12 +55,13 @@ Description下面的仓库类型忘注释了，Public：公开，Private：私�
 仓库名称必须是英文且不能有空格或特殊字符，填错了Github会提示你修改的，我们随便去个名字：比如SENotes
 
 创建完成后，你会来到你的仓库，由于没有勾选README file，所以目前没有文件，暂时不用管。
-按照这个方式，再新建一个仓库：SEImgs，
-# 三、链接到Github图库
 
+按照这个方式，再新建一个仓库：SEImgs。
+# 三、链接到Github图库
+当我们建立好仓库
 # 四、Github图库访问加速
 # 五、GitHub与Gitee双向同步
 这里展开说操作的话篇幅太大，所以请等待我写一篇新的文章并把链接附在这里。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzNDYxMzgxXX0=
+eyJoaXN0b3J5IjpbLTE0OTUwMzc0NTddfQ==
 -->

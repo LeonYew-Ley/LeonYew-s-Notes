@@ -1,7 +1,8 @@
 # 在OneNote中使用优雅的敲出Latex公式
 
 > 日期：2024年5月28日<br>
-> 工具：Office 2021, One Note
+> 工具：Office 2021, One Note<br>
+> 原文：https://leonyew.fun/
 
 <kbd>Alt</kbd> + <kbd>=</kbd> 唤起公式编辑器
 

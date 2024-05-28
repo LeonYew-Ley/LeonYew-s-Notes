@@ -1,6 +1,8 @@
 # 更好的与 ChatGPT 讨论数学：常见的数学公式及其Markdown语法示例
 > 日期：2024年5月28日
 
+本文的行内 latex 语法展示，离不开 [Equation Render](https://latex.codecogs.com) 的技术支持。
+
 在与ChatGPT聊天的过程中，为了让GPT能看懂我们的数学公式，我们可以利用Markdown中的 Latex 语法和GPT进行聊天。
 
 在Markdown中嵌入LaTeX数学公式，可以使用美元符号`$`或双美元符号`$$`来包围公式。以下是一些常见的数学公式及其Markdown语法示例：
@@ -10,7 +12,7 @@
 
 ```这是一个行内公式 $a^2 + b^2 = c^2$。```
 
-效果：这是一个行内公式 $a^2 + b^2 = c^2$。
+效果：这是一个行内公式 <img src = "https://latex.codecogs.com/svg.image?&space;a^2&plus;b^2=c^2">
 
 ### 独立公式
 独立公式使用双美元符号`$$`包围。
@@ -40,7 +42,7 @@ $$
 效果：
 
 行内分数：
-$ \frac{a}{b} $
+<img src="https://latex.codecogs.com/svg.image?\frac{a}{b}">
 
 独立分数：
 $$
@@ -55,9 +57,9 @@ $$
 ```
 效果：
 
-上标：$ a^2 $
+上标：<img src = "https://latex.codecogs.com/svg.image?a^2">
 
-下标：$ a_i $
+下标：<img src = "https://latex.codecogs.com/svg.image?a_i">
 
 ### 根号
 ```
@@ -71,7 +73,7 @@ $$
 
 效果：
 
-行内根号：$ \sqrt{a} $
+行内根号：<img src = "https://latex.codecogs.com/svg.image?\sqrt{a}">
 
 独立根号：
 $$
@@ -106,7 +108,7 @@ $$
 效果：
 
 求和：
-$ \sum_{i=1}^n i $
+<img src = "https://latex.codecogs.com/svg.image?\sum_{i=1}^n i">
 
 积分：
 $$
@@ -123,7 +125,7 @@ $$
 $$
 ```
 效果：
-行内表达式：$ (a + b) $
+行内表达式：<img src = "https://latex.codecogs.com/svg.image?\(a+b)">
 
 独立表达式：
 $$
@@ -157,7 +159,7 @@ $$
 ```
 效果：
 
-行内极限：$ \lim_{x \to \infty} f(x) $
+行内极限：<img src = "https://latex.codecogs.com/svg.image?\lim_{x \to \infty} f(x)">
 
 独立极限：
 $$

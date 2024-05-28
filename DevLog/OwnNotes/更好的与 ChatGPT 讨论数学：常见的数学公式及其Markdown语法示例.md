@@ -1,6 +1,4 @@
-<script type="text/javascript" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
+<img alt="picture 0" src="https://cdn.jsdelivr.net/gh/LeonYew-SWPU/FileTem@main/imgs/abd24e1c01cb0fc467286484187eb915f5606482c13afcf331b446d9c12cb9f7.jpg" width="600" />  
 
 # 更好的与 ChatGPT 讨论数学：常见的数学公式及其Markdown语法示例
 > 日期：2024年5月28日

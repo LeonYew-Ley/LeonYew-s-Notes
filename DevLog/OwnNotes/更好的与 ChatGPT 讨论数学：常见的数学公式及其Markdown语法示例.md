@@ -1,5 +1,10 @@
 # 更好的与 ChatGPT 讨论数学：常见的数学公式及其Markdown语法示例
 > 日期：2024年5月28日
+<script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+为了更好的查看 latex 语法，请移步至 Github 仓库上查看此文章[（点击跳转）](https://github.com/LeonYew-SWPU/LeonYew-s-Notes/blob/master/DevLog/OwnNotes/%E6%9B%B4%E5%A5%BD%E7%9A%84%E4%B8%8E%20ChatGPT%20%E8%AE%A8%E8%AE%BA%E6%95%B0%E5%AD%A6%EF%BC%9A%E5%B8%B8%E8%A7%81%E7%9A%84%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E5%8F%8A%E5%85%B6Markdown%E8%AF%AD%E6%B3%95%E7%A4%BA%E4%BE%8B.md)。
 
 在与ChatGPT聊天的过程中，为了让GPT能看懂我们的数学公式，我们可以利用Markdown中的 Latex 语法和GPT进行聊天。
 

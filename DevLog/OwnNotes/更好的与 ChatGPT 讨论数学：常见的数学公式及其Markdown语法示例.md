@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 # 更好的与 ChatGPT 讨论数学：常见的数学公式及其Markdown语法示例
 > 日期：2024年5月28日
 
